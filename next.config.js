@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   basePath: "/odin-recipes",
-  assetPrefix: "/odin-recipes"
+  assetPrefix: "/odin-recipes/"
 }
 
 module.exports = nextConfig
